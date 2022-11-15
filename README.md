@@ -12,12 +12,12 @@ My name is Jordan Covington. I am from Campobello, South Carolina and joined the
 
 - [Class 1 Reading Notes](code-102/class1.md)
 - [Class 2 Reading Notes](code-102/class2.md)
-- [Class 3 Reading Notes](code-102/class1.md)
-- [Class 4 Reading Notes](code-102/class1.md)
-- [Class 5 Reading Notes](code-102/class1.md)
-- [Class 6 Reading Notes](code-102/class1.md)
-- [Class 7 Reading Notes](code-102/class1.md)
-- [Class 8 Reading Notes](code-102/class1.md)
+- [Class 3 Reading Notes](code-102/class3.md)
+- [Class 4 Reading Notes](code-102/class4.md)
+- [Class 5 Reading Notes](code-102/class5.md)
+- [Class 6 Reading Notes](code-102/class6.md)
+- [Class 7 Reading Notes](code-102/class7.md)
+- [Class 8 Reading Notes](code-102/class8.md)
 
 ### Code 201 Reading Notes
 

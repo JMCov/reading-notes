@@ -13,10 +13,9 @@ Some of the stylized text options I have learned are:
 
 For the newer generations there are even emoji options
 
-- Typing a colon and a letter will present you with a list of emojis to search through. 
+- Typing a colon and a letter will present you with a list of emojis to search through.
   - For instance Typing `:cat` will present you a list of emjois with cat in the title and you can select any you want.
     - Ex. 😾
-
 
 ## Things I want to know more about
 

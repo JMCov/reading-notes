@@ -28,3 +28,6 @@ Both examples would go to the My Documents directory however `cd /home/jordan/My
 #### Things I want to know more about
 
 I would like to learn more on the versatility of command line and why it is more powerful than a knowledgeable person using only GUI.
+
+
+[Back to Home](../README.md)

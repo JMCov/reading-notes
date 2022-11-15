@@ -1,4 +1,4 @@
-#Markdown
+# Markdown
 
 Markdown is a powerful tool that is incredibly powerful and yet the basic syntax is easy to learn. Markdown makes formatting a website easy.
 
@@ -18,6 +18,6 @@ For the newer generations there are even emoji options
     - Ex. 😾
 
 
-##Things I want to know more about
+## Things I want to know more about
 
 I would like to know how to format columns on the pages similar to a newspaper.

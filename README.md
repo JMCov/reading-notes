@@ -1,9 +1,6 @@
-# Jordan Covington's Notes
-## Reading Notes Journal For Code Fellows
-
+# Jordan Covington's Reading Notes for Code Fellows
 
 >cout << "Hello World!";
-
 
 My name is Jordan Covington. I am from Campobello, South Carolina and joined the Air Force in 2008.  I served 4 years active duty and I am currently in the Air National Guard. I have been in IT since I joined doing a little bit of everything except software development in my career. I hope to change that and become a software development wizard. 🧙‍♂️
 
@@ -17,7 +14,7 @@ To me a growth mindset is the ability to expand your mind no matter the obstacle
 
 [Jordan Covington's GitHub Profile](https://github.com/JMCov)
 
-###Table of Contents
+### Table of Contents
 
 [Class 1 Reading Notes](https://jmcov.github.io/reading-notes/class1)
 [Class 2 Reading Notes](https://jmcov.github.io/reading-notes/class2)

@@ -17,6 +17,14 @@ For the newer generations there are even emoji options
   - For instance Typing `:cat` will present you a list of emjois with cat in the title and you can select any you want.
     - Ex. 😾
 
+ To me a growth mindset is the ability to expand your mind no matter the obstacles in your way. To absorb all data given to you positive or negative and turn it into something that allows you to grow.
+
+## **Three Reminders to maintain a growth mindset**
+
+- You can't make an omelette without cracking some eggs.
+- You can learn anything if you dedicate time to it.
+- Criticism can be a more powerful ally than praise.
+
 ## Things I want to know more about
 
 I would like to know how to format columns on the pages similar to a newspaper.

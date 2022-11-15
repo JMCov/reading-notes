@@ -5,7 +5,7 @@
 >cout << "Hello World!";
 
 
-My name is Jordan Covington. I am from Campobello, South Carolina and joined the Air Force in 2008.  I served 4 years active duty and I am currently in the Air National Guard. I have been in IT since I joined doing a little bit of everything except software development in my career. I hope to change that and become a software development wizard.  :mage:
+My name is Jordan Covington. I am from Campobello, South Carolina and joined the Air Force in 2008.  I served 4 years active duty and I am currently in the Air National Guard. I have been in IT since I joined doing a little bit of everything except software development in my career. I hope to change that and become a software development wizard. 🧙‍♂️
 
 To me a growth mindset is the ability to expand your mind no matter the obstacles in your way. To absorb all data given to you positive or negative and turn it into something that allows you to grow.
 

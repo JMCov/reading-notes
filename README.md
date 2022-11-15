@@ -16,3 +16,7 @@ To me a growth mindset is the ability to expand your mind no matter the obstacle
 - Criticism can be a more powerful ally than praise.
 
 [Jordan Covington's GitHub Profile](https://github.com/JMCov)
+
+###Table of Contents
+
+[Class 1 Reading Notes](https://jmcov.github.io/reading-notes/class1)

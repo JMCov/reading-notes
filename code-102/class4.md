@@ -23,4 +23,8 @@ Elements have to be nested properly to work.  If another element's closing tag i
 
 Example 1 would work properly, however Example 2 would not run because the closing tags are not in proper order.
 
+## Things I want to know more about
+
+I would like to learn about more element/tag names so I can utilize HTML to the fullest extent
+
 [Back to Home](../README.md)

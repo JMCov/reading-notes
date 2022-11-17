@@ -4,7 +4,7 @@
 
 Example: `hl {color: purple;}`
 
-This line of CSS would change the text in level one headings to purple. CSS allows for multiple rules within the braces.  You can change text and backgroup color at the same time. 
+This line of CSS would change the text in level one headings to purple. CSS allows for multiple rules within the braces.  You can change text and backgroup color at the same time.
 
 There are 3 ways to add CSS:
 

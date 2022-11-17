@@ -19,7 +19,7 @@ Functions are used so the developer does not have to reuse code. For instance, y
 - Those that have side effects such as assigning values
 - Those that evaluate
 
-`x = 124` is an expression with a side effect by assigning the value of 124 to x
+`x = 124` is an expression with a side effect by assigning the value of 124 to x, and
 `22 * 2` is the the type of expression that evaluates the math
 
 All expressions are joined by operators which come in different types below are a few of the types:
@@ -31,5 +31,9 @@ All expressions are joined by operators which come in different types below are 
 - Logical operators
 - BigInt operators
 - String operators
+
+## Things I want to know more about
+
+I would like to reserarch more operators to see what JavaScript has to offer.
 
 [Back to Home](../README.md)

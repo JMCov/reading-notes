@@ -9,7 +9,7 @@ Functions are used so the developer does not have to reuse code. For instance, y
 **Operators** tell the code what you want it to do.  There are many operators from:
 
 - `=`   assignment operator which gives a variable the assigned value of whatever the program wants
-- `++`  increment operator which adds 1 to the variable 
+- `++`  increment operator which adds 1 to the variable
 - `*`   multiplication operator telling the program to multiply variables
 - `==`  equal to comparision operator which is used to see if 2 things are equal to each other
 - `!=`  not equal operator which determines if 2 things are not equal to each other

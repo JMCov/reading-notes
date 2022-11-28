@@ -5,7 +5,9 @@
 HTTP Haiku
 
 Browser finds website
+
 Browser sends request for copy
+
 Approved request good
 
 **Describe how HTML, CSS, and JS files are “parsed” in the browser.**

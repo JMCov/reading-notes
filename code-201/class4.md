@@ -46,7 +46,7 @@ With **absolute positioning** you can create isolated UI features that don't int
 
 **What is the difference between a parameter and an argument?**
 
-**Parameters** are sometimes called **arguments** and need to be specified when you are invoking a function, these are values that need to be included inside the function parentheses
+**Parameters** are sometimes called **arguments** and need to be specified when you are invoking a function, these are values that need to be included inside the function parentheses. A parameter is when you declare the function but it is refered too as an argument when you invoke the function.
 
 **Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.**
 

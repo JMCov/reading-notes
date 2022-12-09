@@ -1,4 +1,4 @@
-# Forms and JS Events 
+# Forms and JS Events
 
 ## HTML Forms
 
@@ -46,6 +46,6 @@ Inside an event handler function parameters, called event objects, are automatic
 
 ## Things I want to know more about
 
-I want to know if forms can be used to process large amounts of data for a side project I am going to try to make. 
+I want to know if forms can be used to process large amounts of data for a side project I am going to try to make.
 
 [Back to Home](../README.md)

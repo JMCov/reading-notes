@@ -47,7 +47,7 @@ From [What Google Learned From Its Quest to Build the Perfect Team](https://rewo
 
 **Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.**
 
-I was in an IT office and we were told to add Hard Drive serial numbers and Computer Names that they are used on for all our 1200 users. This seemed like a daunting task since we had to contact everyone with a hard drive and pair it to the computers they specifically need. I decided to ask to do this a different way to save time. I suggested to pull our computer listing and our hard drive listing and just add all hard drives to all computers. The project was supposed to have a 3 month deadline and I finished it in 1 day. I wouldn't have asked if I didn't feel like my supervision wouldn't entertain the idea. 
+I was in an IT office and we were told to add Hard Drive serial numbers and Computer Names that they are used on for all our 1200 users. This seemed like a daunting task since we had to contact everyone with a hard drive and pair it to the computers they specifically need. I decided to ask to do this a different way to save time. I suggested to pull our computer listing and our hard drive listing and just add all hard drives to all computers. The project was supposed to have a 3 month deadline and I finished it in 1 day. I wouldn't have asked if I didn't feel like my supervision wouldn't entertain the idea.
 
 **What impact do teams that operate with a high degree of psychological safety have on their company and the team members?**
 

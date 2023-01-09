@@ -48,4 +48,8 @@ From [What is “Props” and how to use it in React?](https://itnext.io/what-is
 
 In a uni-directional flow
 
+## Things I want to know more about
+
+I would like to see how react can help me improve my websites.
+
 [Back to Home](../README.md)

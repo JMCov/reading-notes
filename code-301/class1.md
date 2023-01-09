@@ -10,7 +10,6 @@ A component is a software object, intended to interact with other components, en
 
 From [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
-
 **What are the characteristics of a component?**
 
 - **Reusability** − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
@@ -29,7 +28,7 @@ From [Component-Based Architecture](https://www.tutorialspoint.com/software_arch
 
 **What are the advantages of using component-based architecture?**
 
-Ease of deployment, Reduced Cost, Ease of development, Reuseable, Modificatioon of technical complexity, reliability, system maintenance and evolution, and independence. 
+Ease of deployment, Reduced Cost, Ease of development, Reuseable, Modificatioon of technical complexity, reliability, system maintenance and evolution, and independence.
 
 ## What is Props and How to Use it in React
 

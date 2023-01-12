@@ -41,7 +41,6 @@ From[How to Use the Spread Operator (…) in JavaScript](https://medium.com/codi
   const combinedArray = [...firstArray,...secondArray]
 ```
 
-
 **Give an example of using the spread operator to add a new item to an array.**
 
 ```js:
@@ -60,3 +59,5 @@ const objectThree = {...objectOne, ...objectTwo}
 ## Things I want to know more about
 
 I would like to know more about how spread operators can be used to make working with arrays and objects easier.
+
+[Back to Home](../README.md)

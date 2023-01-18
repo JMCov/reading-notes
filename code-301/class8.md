@@ -1,6 +1,5 @@
 # APIs
 
-
 ## API Design Best Practices
 
 **What does REST stand for?**

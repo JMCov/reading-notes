@@ -42,6 +42,6 @@ By using require(./"File_Name) in the file you are bringing the module into and 
 
 ## Things I want to learn more about
 
-What is the difference between modules and just importing the entire file to
+What is the difference between modules and just importing the entire file to another?
 
 [Back to Home](../README.md)

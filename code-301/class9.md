@@ -38,14 +38,10 @@ It allows a JS file to access another JS module
 
 **How do we bring another module into the file the we are working in?**
 
-By using 
-
-**What do we have to do to make a module available?**
-
-require(./"File_Name) in the file you are bringing the module into and using module.exports = "Function Name" in the module that is being used.
+By using require(./"File_Name) in the file you are bringing the module into and using module.exports = "Function Name" in the module that is being used.
 
 ## Things I want to learn more about
 
-What is the difference between modules and just importing the entire file to another?
+What is the difference between modules and just importing the entire file to
 
 [Back to Home](../README.md)

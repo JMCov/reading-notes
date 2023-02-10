@@ -16,3 +16,5 @@ In the SQL Lessons we learned how to run query searches to find specific rows an
 ![Lesson 16](./img/Lesson%2016.PNG "Lesson 16")
 ![Lesson 17](./img/Lesson%2017.PNG "Lesson 17")
 ![Lesson 18](./img/Lesson%2018.PNG "Lesson 18")
+
+[Back to Home](../README.md)

@@ -57,7 +57,8 @@ My name is Jordan Covington. I am from Campobello, South Carolina and joined the
 
 ### Code 401 Reading Notes
 
-- [Prep Work - SQL](code-401/prep-work.md)
+- [Prep Work - SQL](code-401/prep-work-SQL.md)
+- [Prep Work - Terminal](code-401/prep-work-terminal.md)
 - [Class 1 Reading Notes](code-401/class1.md)
 - [Class 2 Reading Notes](code-401/class2.md)
 - [Class 3 Reading Notes](code-401/class3.md)

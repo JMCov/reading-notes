@@ -59,6 +59,8 @@ My name is Jordan Covington. I am from Campobello, South Carolina and joined the
 
 - [Prep Work - SQL](code-401/prep-work-SQL.md)
 - [Prep Work - Terminal](code-401/prep-work-terminal.md)
+- [Prep Work - Growth Mindset](code-401/prep-work-growth-mindset.md)
+- [Prep Work - Data Structures and Algorithms](code-401/prep-work-DSA.md)
 - [Class 1 Reading Notes](code-401/class1.md)
 - [Class 2 Reading Notes](code-401/class2.md)
 - [Class 3 Reading Notes](code-401/class3.md)

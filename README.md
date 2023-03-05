@@ -76,3 +76,7 @@ My name is Jordan Covington. I am from Campobello, South Carolina and joined the
 - [Class 13 Reading Notes](code-401/class13.md)
 - [Class 14 Reading Notes](code-401/class14.md)
 - [Class 15 Reading Notes](code-401/class15.md)
+- [Class 16 Reading Notes](code-401/class16.md)
+- [Class 17 Reading Notes](code-401/class17.md)
+- [Class 18 Reading Notes](code-401/class18.md)
+- [Class 19 Reading Notes](code-401/class19.md)

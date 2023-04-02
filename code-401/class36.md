@@ -13,7 +13,7 @@ Reducers are pure functions that take the current state and an action as argumen
 
 **Name three Redux store methods given to us by createStore and describe their use.**
 
-`getState()`: This method returns the current state of the store. 
+`getState()`: This method returns the current state of the store.
 
 `dispatch()`: It lets you dispatch actions to change the state of your application. If we log this chore state after dispatch, we're going to see that it has changed.
 

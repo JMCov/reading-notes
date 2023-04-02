@@ -36,5 +36,4 @@ Adjacency List - a collection of linked lists or array that lists all of the oth
 
 Weighted Graph - a graph with numbers assigned to its edges. These numbers are called weights.
 
-
 [Back to Home](../README.md)

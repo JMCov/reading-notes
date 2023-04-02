@@ -8,7 +8,7 @@ Query string parameters are appended to the end of a URL, after a question mark 
 
 **What would our API URL with a path id parameter be given the following information:**
 
-http://our-site.com/v3/stuff/things
+`http://our-site.com/v3/stuff/things`
 
 **We have created a dynamic API with an “interface”. Describe how that interface works to a non-technical friend.**
 
